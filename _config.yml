@@ -104,4 +104,4 @@ theme: butterfly
 deploy:
   type: git
   repo: https://github.com/Jambo2018/Jambo2018.github.io
-  branch: master
+  branch: main
