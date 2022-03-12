@@ -42,7 +42,7 @@ copy:
 # formal:
 #   icon: link || the description
 social:
-  fab fa-github: https://github.com/l1nf3ng || Github
+  fab fa-github: https://github.com/Jambo2018 || Github
   fas fa-envelope: mailto:nuaa_llf@126.com || Email
 
 # search (搜索)
@@ -651,7 +651,7 @@ aside:
       enable: true
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/L1nf3ng
+      link: https://github.com/Jambo2018
   card_announcement:
     enable: true
     content: 2021年，继续营业!

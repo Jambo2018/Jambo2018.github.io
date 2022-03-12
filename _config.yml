@@ -4,10 +4,10 @@
 
 # Site
 title: Linf3ng's Blog
-subtitle: "L1nf3ng's Blog"
+subtitle: "Jambo2018's Blog"
 description: '站在更高的角度看安全'
 keywords: 安全、开发、架构
-author: L1nf3ng
+author: Jambo2018
 language: zh-CN
 timezone: ''
 
@@ -103,5 +103,5 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/L1nf3ng/L1nf3ng.github.io
+  repo: https://github.com/Jambo2018/Jambo2018.github.io
   branch: master
