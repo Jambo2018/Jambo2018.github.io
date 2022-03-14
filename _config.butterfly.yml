@@ -11,9 +11,9 @@ menu:
   归档: /archives/ || fas fa-archive
   标签: /tags/ || fas fa-tags
   分类: /categories/ || fas fa-folder-open
-  # 清单||fas fa-list:
-    # 音乐: /music/ || fas fa-music
-    # 书籍: /books/ || fas fa-video
+  清单||fas fa-list:
+    音乐: /music/ || fas fa-music
+    书籍: /books/ || fas fa-video
   友链: /link/ || fas fa-link
   关于: /about/ || fas fa-heart
 
