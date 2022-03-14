@@ -80,11 +80,11 @@ katex:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: /img/panda.ico
+favicon: /img/monkey.ico
 
 # Avatar (頭像)
 avatar:
-  img: /img/Mantus.jpg
+  img: /img/monkey.png
   effect: false
 
 # Disable all banner image
