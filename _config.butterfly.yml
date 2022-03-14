@@ -43,7 +43,7 @@ copy:
 #   icon: link || the description
 social:
   fab fa-github: https://github.com/Jambo2018 || Github
-  fas fa-envelope: bxtx1992@gmail.com || Email
+  fas fa-envelope: mailto:bxtx1992@gmail.com || Email
 
 # search (搜索)
 # --------------------------------------
